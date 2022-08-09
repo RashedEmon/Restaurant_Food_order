@@ -1,0 +1,41 @@
+#items{
+    background-color: #55555A;
+    color: #FFFF;
+    margin-bottom: 20px;
+    cursor: grab;
+  }
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px 0px 0px;
+  }
+
+.imgName{
+    position: relative;
+    display: flex;
+    height: 3rem;
+  }
+.itemNameAndPrice{
+    margin: auto 0px auto 15px;
+    color: #EF5EA8;
+  }
+
+.addButton{
+    background-color: #393939;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+.sign{
+    text-align: center;
+    font-weight: 100;
+    font-size: 25px;
+}
+  .buttonGroup{
+    display: flex;
+  }
+  .buttonGroup>div{
+    margin: 0px 10px;
+  }

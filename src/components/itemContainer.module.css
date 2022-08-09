@@ -1,0 +1,8 @@
+.itemContainer{
+    height: 50vh;
+    overflow: auto;
+    padding: 0px;
+}
+.itemContainer::-webkit-scrollbar{
+    display: none;
+}

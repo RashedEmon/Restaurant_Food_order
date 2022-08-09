@@ -1,0 +1,11 @@
+.section{
+    width: 90%;
+    height: 50vh;
+    padding: 2rem 1vw;
+    margin: 0px auto;
+    background-color: #1F1E20;
+}
+.section::-webkit-scrollbar{
+  display: none;
+}
+
