@@ -1,5 +1,5 @@
 <h1>Restaurant Food Order System</h1>
-<p>Restaurant food order system is an alternative way to order food in restaurant. It will replace manual ordering system which is time consuming. User can order food by using this system easily. User can add an item to order list and can see details of the product. User also check number of item and total price of item before confirm order</p>
+<p>The restaurant food order system is an alternative way to order food. It will replace the manual ordering system which is time-consuming. Users can order food by using this system easily. Users can add an item to the order list and see product details. Users also check the number of items and the total price of item before confirming order.</p>
 
 <h2>Features of this system</h2>
 <ol>
