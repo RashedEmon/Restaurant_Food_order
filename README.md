@@ -21,10 +21,10 @@
 
 <p>
   To run this project in your local computer.</br>
-  clone the git repository.
-  <code>git clone https://github.com/RashedEmon/Restaurant_Food_order.git</code>
-  Intall React,Redux & React Router. Following command will install these.(if installed then skip this step).
-  <code>npm install</code>
-  Run following command to start the application.
-  <code>npm start</code>
+  clone the git repository.</br>
+  <code>git clone https://github.com/RashedEmon/Restaurant_Food_order.git</code></br>
+  Intall React,Redux & React Router. Following command will install these.(if installed then skip this step).</br>
+  <code>npm install</code></br>
+  Run following command to start the application.</br>
+  <code>npm start</code></br>
 </p>
